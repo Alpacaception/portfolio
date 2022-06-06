@@ -1,22 +1,22 @@
 <template>
   <main class="bg-richBlack min-h-screen">
     <div>
-      <div class="flex justify-left fixed top-0">
+      <div class="flex justify-left pl-8">
         <img src="./assets/icon.svg" width="60" height="60" class="">
         <h1 class="text-2xl font-mono p-6 text-white font-ubuntu font-bold transition duration-300 hover:text-green">
           Rhys Appleby
         </h1>
       </div>
     </div>
-    <div class="">
-      <div class="">
-        <img src="./assets/line-s.svg" class="h-30 w-30">
-        <img src="./assets/line-s.svg" class="h-30 w-30">
-        <img src="./assets/line-s.svg" class="h-30 w-30">
-        <img src="./assets/line-s.svg" class="h-30 w-30">
+    <div class="flex justify-left">
+      <div class="flex justify-left flex-col justify-center min-h-screen pb-28 pl-4 fixed">
+        <img src="./assets/line-l.svg" class="">
+        <img src="./assets/line-s.svg" class="">
+        <img src="./assets/line-s.svg" class="">
+        <img src="./assets/line-s.svg" class="">
       </div>
-      <div class="flex justify-right p-8">
-        <h1 class="text-6xl font-mono text-white font-ubuntu font-bold transition duration-300 hover:text-green">
+      <div class="">
+        <h1 class="text-8xl font-mono px-72 py-40 text-white font-ubuntu font-bold transition duration-300 hover:text-green">
           Rhys Appleby
         </h1>
       </div>
