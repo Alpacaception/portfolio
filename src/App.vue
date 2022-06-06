@@ -1,7 +1,11 @@
 <template>
   <main class="bg-richBlack min-h-screen">
     <div>
-
+      <div class="flex justify-left">
+        <h1>
+          Header
+        </h1>
+      </div>
     </div>
     <div class="flex justify-left p-16">
       <h1 class="text-6xl font-mono p-6 text-white font-ubuntu font-bold transition duration-300 hover:text-green">
