@@ -53,6 +53,18 @@
         <img src="">
       </div>
     </div>
+    <!--Projects Div-->
+    <div class="py-[664px] px-36">
+      <h1 class="text-8xl text-white font-ubuntu font-bold transition duration-300 hover:text-green" id="about">
+        Previous Projects
+      </h1>        
+    </div>
+    <!--Contact Me Div-->
+    <div class="py-[664px] px-36">
+      <h1 class="text-8xl text-white font-ubuntu font-bold transition duration-300 hover:text-green" id="about">
+        Contact Me
+      </h1>        
+    </div>
   </main>
 </template>
 
