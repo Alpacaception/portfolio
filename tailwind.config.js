@@ -8,7 +8,8 @@ module.exports = {
     extend: {},
     fontFamily: {
       'ubuntu': ['Ubuntu'],
-      'nunito': ['Nunito']
+      'nunito': ['Nunito'],
+      'ubuntu-l': ['Ubuntu']
     },
     colors: {
       transparent: 'transparent',

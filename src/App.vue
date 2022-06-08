@@ -32,21 +32,21 @@
         <h1 class="text-8xl text-white font-ubuntu font-bold transition duration-300 hover:text-green" id="about">
           About Me
         </h1>
-        <p class="text-2xl text-white font-ubuntu transition duration-300 py-12 hover:text-green">
-          Hello, I am a full stack developer from Australia. I am primarily a front-end developer, however I have a significant amount of experience on the backend with python. If you are intererested in the technologies I use you can see them below!
+        <p class="text-2xl text-white font-ubuntu-l transition duration-300 py-12 hover:text-green">
+          Hello, I am a full stack developer from Australia. I am primarily a front-end developer, however I have a significant amount of experience on the back-end with python. If you are intererested in the technologies I use you can see them below!
         </p>
         <!--Technology Icons-->
         <div class="flex justify-left">
-          <img src="./assets/iconPython.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110" data-tooltip-target="tooltip-default">
-          <img src="./assets/iconTypescript.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
-          <img src="./assets/iconTailwind.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
-          <img src="./assets/iconHTML.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconPython.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
+          <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconTypescript.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
+          <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconTailwind.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
+          <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconVue.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
         </div>
         <div class="flex justify-left">
-          <img src="./assets/iconMongo.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
-          <img src="./assets/iconFirebase.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
-          <img src="./assets/iconGit.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
-          <img src="./assets/iconGithub.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconMongo.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
+          <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconFirebase.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
+          <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconGit.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
+          <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/iconGithub.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-[1.125]"></a>
         </div>
       </div>
       <div class="float-right w-1/2">
@@ -59,6 +59,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap');
 </style>
 
 <script setup>
