@@ -37,7 +37,16 @@
         </p>
         <!--Technology Icons-->
         <div class="flex justify-left">
-          <img src="" class="">
+          <img src="./assets/iconPython.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110" data-tooltip-target="tooltip-default">
+          <img src="./assets/iconTypescript.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <img src="./assets/iconTailwind.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <img src="./assets/iconHTML.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+        </div>
+        <div class="flex justify-left">
+          <img src="./assets/iconMongo.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <img src="./assets/iconFirebase.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <img src="./assets/iconGit.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
+          <img src="./assets/iconGithub.svg" class="w-32 h-32 pr-4 transition duration-200 hover:scale-110">
         </div>
       </div>
       <div class="float-right w-1/2">
@@ -51,3 +60,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 </style>
+
+<script setup>
+
+</script>
+
