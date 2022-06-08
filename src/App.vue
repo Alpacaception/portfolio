@@ -33,7 +33,7 @@
           About Me
         </h1>
         <p class="text-2xl text-white font-ubuntu-l transition duration-300 py-12 hover:text-green">
-          Hello, I am a full stack developer from Australia. I am primarily a front-end developer, however I have a significant amount of experience on the back-end with python. If you are intererested in the technologies I use you can see them below!
+          Hi, i'm a full stack developer from Australia. I am primarily a front-end developer, however I have a significant amount of experience on the back-end with python. If you are intererested in the technologies I use you can see them below!
         </p>
         <!--Technology Icons-->
         <div class="flex justify-left">
